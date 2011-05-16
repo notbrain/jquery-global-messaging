@@ -1,1 +1,0 @@
-h1. jQuery Global Messaging Plugin
